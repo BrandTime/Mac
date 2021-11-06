@@ -1,0 +1,150 @@
+23-10-2021 19:56:39
+Version            : GH Injector V4.4
+OS                 : Windows 10 20H2 (Build 19042)
+File               : C:\Users\jimmy\AppData\Local\Temp\BpD27Eub6F.dll
+Target             : ac_client.exe
+Target PID         : 31156
+Source             : Thread Hijacking WOW64.cpp in SR_HijackThread_WOW64 at line 245
+Errorcode          : 0x1020000A
+Advanced errorcode : 0x00000000
+Injectionmode      : ManualMap
+Launchmethod       : HijackThread
+Platform           : wow64
+HandleValue        : 0x00000000
+Flags              : 0x01FE0032
+
+30-10-2021 17:53:21
+Version            : GH Injector V4.4
+OS                 : Windows 10 20H2 (Build 19042)
+File               : C:\Users\jimmy\AppData\Local\Temp\3r838A215f.dll
+Target             : csgo.exe
+Target PID         : 27848
+Source             : KernelCallback WOW64.cpp in SR_KernelCallback_WOW64 at line 245
+Errorcode          : 0x10500008
+Advanced errorcode : 0x00000522
+Injectionmode      : ManualMap
+Launchmethod       : KernelCallback
+Platform           : wow64
+HandleValue        : 0x0000033C
+Flags              : 0x01FE0042
+
+31-10-2021 09:26:40
+Version            : GH Injector V4.4
+OS                 : Windows 10 20H2 (Build 19042)
+File               : C:\Users\jimmy\AppData\Local\Temp\K5CRtLkhOW.dll
+Target             : csgo.exe
+Target PID         : 20540
+Source             : KernelCallback WOW64.cpp in SR_KernelCallback_WOW64 at line 245
+Errorcode          : 0x10500008
+Advanced errorcode : 0x00000522
+Injectionmode      : ManualMap
+Launchmethod       : KernelCallback
+Platform           : wow64
+HandleValue        : 0x0000047C
+Flags              : 0x01FE0042
+
+31-10-2021 09:26:40
+Version            : GH Injector V4.4
+OS                 : Windows 10 20H2 (Build 19042)
+File               : C:\Users\jimmy\AppData\Local\Temp\K5CRtLkhOW.dll
+Target             : (undetermined)
+Target PID         : 20540
+Source             : Injection.cpp in HijackHandle at line 565
+Errorcode          : 0x00000022
+Advanced errorcode : 0x00000000
+Injectionmode      : ManualMap
+Launchmethod       : KernelCallback
+Platform           : x64/x86 (native)
+HandleValue        : 0x00000000
+Flags              : 0x01FE0072
+
+31-10-2021 09:26:58
+Version            : GH Injector V4.4
+OS                 : Windows 10 20H2 (Build 19042)
+File               : C:\Users\jimmy\AppData\Local\Temp\llXw277D42.dll
+Target             : csgo.exe
+Target PID         : 20540
+Source             : KernelCallback WOW64.cpp in SR_KernelCallback_WOW64 at line 245
+Errorcode          : 0x10500008
+Advanced errorcode : 0x00000522
+Injectionmode      : ManualMap
+Launchmethod       : KernelCallback
+Platform           : wow64
+HandleValue        : 0x0000047C
+Flags              : 0x01FE0042
+
+31-10-2021 09:26:58
+Version            : GH Injector V4.4
+OS                 : Windows 10 20H2 (Build 19042)
+File               : C:\Users\jimmy\AppData\Local\Temp\llXw277D42.dll
+Target             : (undetermined)
+Target PID         : 20540
+Source             : Injection.cpp in HijackHandle at line 565
+Errorcode          : 0x00000022
+Advanced errorcode : 0x00000000
+Injectionmode      : ManualMap
+Launchmethod       : KernelCallback
+Platform           : x64/x86 (native)
+HandleValue        : 0x00000000
+Flags              : 0x01FE0072
+
+31-10-2021 09:27:25
+Version            : GH Injector V4.4
+OS                 : Windows 10 20H2 (Build 19042)
+File               : C:\Users\jimmy\AppData\Local\Temp\eZj06t19FR.dll
+Target             : csgo.exe
+Target PID         : 20540
+Source             : KernelCallback WOW64.cpp in SR_KernelCallback_WOW64 at line 245
+Errorcode          : 0x10500008
+Advanced errorcode : 0x00000522
+Injectionmode      : ManualMap
+Launchmethod       : KernelCallback
+Platform           : wow64
+HandleValue        : 0x0000047C
+Flags              : 0x01FE0042
+
+31-10-2021 09:27:26
+Version            : GH Injector V4.4
+OS                 : Windows 10 20H2 (Build 19042)
+File               : C:\Users\jimmy\AppData\Local\Temp\eZj06t19FR.dll
+Target             : (undetermined)
+Target PID         : 20540
+Source             : Injection.cpp in HijackHandle at line 565
+Errorcode          : 0x00000022
+Advanced errorcode : 0x00000000
+Injectionmode      : ManualMap
+Launchmethod       : KernelCallback
+Platform           : x64/x86 (native)
+HandleValue        : 0x00000000
+Flags              : 0x01FE0072
+
+31-10-2021 09:27:47
+Version            : GH Injector V4.4
+OS                 : Windows 10 20H2 (Build 19042)
+File               : C:\Users\jimmy\AppData\Local\Temp\d6id0Td3u2.dll
+Target             : csgo.exe
+Target PID         : 20540
+Source             : KernelCallback WOW64.cpp in SR_KernelCallback_WOW64 at line 245
+Errorcode          : 0x10500008
+Advanced errorcode : 0x00000522
+Injectionmode      : ManualMap
+Launchmethod       : KernelCallback
+Platform           : wow64
+HandleValue        : 0x0000047C
+Flags              : 0x01FE0041
+
+31-10-2021 09:27:47
+Version            : GH Injector V4.4
+OS                 : Windows 10 20H2 (Build 19042)
+File               : C:\Users\jimmy\AppData\Local\Temp\d6id0Td3u2.dll
+Target             : (undetermined)
+Target PID         : 20540
+Source             : Injection.cpp in HijackHandle at line 565
+Errorcode          : 0x00000022
+Advanced errorcode : 0x00000000
+Injectionmode      : ManualMap
+Launchmethod       : KernelCallback
+Platform           : x64/x86 (native)
+HandleValue        : 0x00000000
+Flags              : 0x01FE0071
+
