@@ -1,0 +1,906 @@
+{
+  "Aimbot": [
+    {
+      "Aimlock": true,
+      "Between shots": false,
+      "Enabled": true,
+      "Fov": 30.91,
+      "Min damage": 0,
+      "Scoped only": false,
+      "Smooth": 5.38,
+      "Visible only": false
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Aimbot Key": "MOUSE5",
+  "Aimbot Key mode": 0,
+  "Aimbot On key": true,
+  "Anti aim": {
+    "Pitch angle": 89.0
+  },
+  "Chams": {
+    "Allies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Backtrack": {
+      "Materials": [
+        {
+          "Alpha": 1.0,
+          "Blinking": true,
+          "Color": "#9900ff",
+          "Cover": true,
+          "Enabled": true,
+          "Wireframe": true
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Defusing": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Enemies": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Hands": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Local player": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Planting": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Sleeves": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Weapons": {
+      "Materials": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ESP": {
+    "Enemies": {
+      "All": {
+        "Box": {
+          "Alpha": 1.0,
+          "Color": "#ff0000",
+          "Enabled": true,
+          "Type": 3
+        },
+        "Enabled": true,
+        "Flash Duration": {
+          "Enabled": true
+        },
+        "Head Box": {
+          "Enabled": true
+        },
+        "Name": {
+          "Enabled": true
+        },
+        "Skeleton": {
+          "Alpha": 1.0,
+          "Color": "#ff0000",
+          "Enabled": true
+        },
+        "Snapline": {
+          "Enabled": true
+        },
+        "Weapon": {
+          "Enabled": true
+        }
+      }
+    }
+  },
+  "Glow": {
+    "Items": {
+      "Chickens": {
+        "Health based": true,
+        "Style": 3
+      }
+    },
+    "Players": {
+      "Allies": {
+        "All": {
+          "Enabled": true,
+          "Health based": true
+        }
+      },
+      "Enemies": {
+        "Visible": {
+          "Alpha": 1.0,
+          "Color": "#f5f5f5",
+          "Enabled": true,
+          "Health based": true,
+          "Style": 1
+        }
+      }
+    }
+  },
+  "Inventory Changer": {
+    "Equipment": [
+      {
+        "CT": 1,
+        "Slot": 0,
+        "TT": 1
+      },
+      {
+        "CT": 13,
+        "Slot": 2,
+        "TT": 15
+      },
+      {
+        "Slot": 5,
+        "TT": 16
+      },
+      {
+        "CT": 9,
+        "Slot": 6,
+        "TT": 9
+      },
+      {
+        "CT": 11,
+        "Slot": 9,
+        "TT": 11
+      },
+      {
+        "CT": 19,
+        "Slot": 11,
+        "TT": 19
+      },
+      {
+        "CT": 2,
+        "Slot": 15,
+        "TT": 3
+      },
+      {
+        "CT": 17,
+        "Slot": 16,
+        "TT": 17
+      },
+      {
+        "Slot": 17,
+        "TT": 18
+      },
+      {
+        "CT": 7,
+        "Slot": 18,
+        "TT": 7
+      },
+      {
+        "CT": 20,
+        "Slot": 19
+      },
+      {
+        "NOTEAM": 10,
+        "Slot": 54
+      },
+      {
+        "NOTEAM": 6,
+        "Slot": 55
+      }
+    ],
+    "Items": [
+      {
+        "Item Name": "Bowie Knife",
+        "Paint Kit": 1114,
+        "Paint Kit Name": "Autotronic",
+        "Seed": 944,
+        "Weapon ID": 514,
+        "Wear": 0.016512781
+      },
+      {
+        "Item Name": "Butterfly Knife",
+        "Paint Kit": 619,
+        "Paint Kit Name": "Doppler",
+        "Seed": 98,
+        "Weapon ID": 515,
+        "Wear": 0.004942484
+      },
+      {
+        "Item Name": "M4A4",
+        "Paint Kit": 309,
+        "Paint Kit Name": "Howl",
+        "Seed": 476,
+        "Weapon ID": 16,
+        "Wear": 0.01007052
+      },
+      {
+        "Item Name": "AK-47",
+        "Paint Kit": 474,
+        "Paint Kit Name": "Aquamarine Revenge",
+        "Seed": 339,
+        "Weapon ID": 7,
+        "Wear": 0.06937727
+      },
+      {
+        "Item Name": "Classic Knife",
+        "Paint Kit": 38,
+        "Paint Kit Name": "Fade",
+        "Seed": 467,
+        "Weapon ID": 503,
+        "Wear": 0.0043901335
+      },
+      {
+        "Item Name": "Flip Knife",
+        "Paint Kit": 568,
+        "Paint Kit Name": "Gamma Doppler",
+        "Seed": 196,
+        "Weapon ID": 505,
+        "Wear": 0.0020001703
+      },
+      {
+        "Item Name": "10 Year Veteran Coin",
+        "Weapon ID": 969
+      },
+      {
+        "Item Name": "AWP",
+        "Paint Kit": 279,
+        "Paint Kit Name": "Asiimov",
+        "Seed": 678,
+        "Weapon ID": 9,
+        "Wear": 0.20078677
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 360,
+        "Paint Kit Name": "Cyrex",
+        "Seed": 20,
+        "Weapon ID": 60,
+        "Wear": 0.017460417
+      },
+      {
+        "Item Name": "Desert Eagle",
+        "Paint Kit": 711,
+        "Paint Kit Name": "Code Red",
+        "Seed": 131,
+        "Weapon ID": 1,
+        "Wear": 0.016868223
+      },
+      {
+        "Item Name": "Music Kit",
+        "Music ID": 60,
+        "Weapon ID": 1314
+      },
+      {
+        "Item Name": "MP7",
+        "Paint Kit": 696,
+        "Paint Kit Name": "Bloodsport",
+        "Seed": 58,
+        "Weapon ID": 33,
+        "Wear": 0.015748663
+      },
+      {
+        "Item Name": "Sticker",
+        "Sticker ID": 4739,
+        "Weapon ID": 1209
+      },
+      {
+        "Item Name": "USP-S",
+        "Paint Kit": 637,
+        "Paint Kit Name": "Cyrex",
+        "Seed": 660,
+        "Weapon ID": 61,
+        "Wear": 0.03353651
+      },
+      {
+        "Item Name": "Karambit",
+        "Paint Kit": 576,
+        "Paint Kit Name": "Autotronic",
+        "Seed": 734,
+        "Weapon ID": 507,
+        "Wear": 0.011502924
+      },
+      {
+        "Item Name": "Glock-18",
+        "Paint Kit": 957,
+        "Paint Kit Name": "Bullet Queen",
+        "Seed": 354,
+        "Weapon ID": 4,
+        "Wear": 0.014364792
+      },
+      {
+        "Item Name": "Tec-9",
+        "Paint Kit": 520,
+        "Paint Kit Name": "Avalanche",
+        "Seed": 329,
+        "Weapon ID": 30,
+        "Wear": 0.018441314
+      },
+      {
+        "Item Name": "SSG 08",
+        "Paint Kit": 222,
+        "Paint Kit Name": "Blood in the Water",
+        "Seed": 865,
+        "Weapon ID": 40,
+        "Wear": 0.062917784
+      },
+      {
+        "Item Name": "SG 553",
+        "Paint Kit": 897,
+        "Paint Kit Name": "Colony IV",
+        "Seed": 130,
+        "Weapon ID": 39,
+        "Wear": 0.028311834
+      },
+      {
+        "Item Name": "P90",
+        "Paint Kit": 359,
+        "Paint Kit Name": "Asiimov",
+        "Seed": 864,
+        "Weapon ID": 19,
+        "Wear": 0.039692134
+      },
+      {
+        "Item Name": "SCAR-20",
+        "Paint Kit": 597,
+        "Paint Kit Name": "Bloodsport",
+        "Seed": 485,
+        "Weapon ID": 38,
+        "Wear": 0.019231226
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 1073,
+        "Paint Kit Name": "Imminent Danger",
+        "Seed": 390,
+        "Weapon ID": 60,
+        "Wear": 0.028748387
+      },
+      {
+        "Item Name": "M4A1-S",
+        "Paint Kit": 430,
+        "Paint Kit Name": "Hyper Beast",
+        "Seed": 704,
+        "Weapon ID": 60,
+        "Wear": 0.067272626
+      }
+    ],
+    "Version": 3
+  },
+  "Misc": {
+    "Auto pistol": true,
+    "Bomb timer": {
+      "Enabled": true
+    },
+    "Choked packets": 64,
+    "Choked packets key": "MOUSE4",
+    "Clan tag": "Eglo",
+    "Disable HUD blur": true,
+    "Grenade predict": true,
+    "Noscope crosshair": {
+      "Enabled": true
+    },
+    "Offscreen Enemies": {
+      "Enabled": true,
+      "Health Bar": {
+        "Enabled": true
+      }
+    },
+    "Purchase List": {
+      "Enabled": true,
+      "Only During Freeze Time": true
+    },
+    "Quick reload": true,
+    "Radar hack": true,
+    "Recoil crosshair": {
+      "Alpha": 1.0,
+      "Color": "#a900ff",
+      "Enabled": true
+    },
+    "Reveal ranks": true,
+    "Spectator list": {
+      "Enabled": true,
+      "Pos": {
+        "X": 1335.0,
+        "Y": 25.0
+      },
+      "Size": {
+        "X": 200.0,
+        "Y": 200.0
+      }
+    }
+  },
+  "Sound": {
+    "Chicken volume": 200,
+    "Players": [
+      {},
+      {},
+      {}
+    ]
+  },
+  "Style": {
+    "Colors": {
+      "Border": [
+        0.43,
+        0.43,
+        0.5,
+        0.5
+      ],
+      "BorderShadow": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "Button": [
+        0.26,
+        0.59,
+        0.98,
+        0.4
+      ],
+      "ButtonActive": [
+        0.06,
+        0.53,
+        0.98,
+        1.0
+      ],
+      "ButtonHovered": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "CheckMark": [
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "ChildBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "DragDropTarget": [
+        1.0,
+        1.0,
+        0.0,
+        0.9
+      ],
+      "FrameBg": [
+        0.16,
+        0.29,
+        0.48,
+        0.54
+      ],
+      "FrameBgActive": [
+        0.26,
+        0.59,
+        0.98,
+        0.67
+      ],
+      "FrameBgHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.4
+      ],
+      "Header": [
+        0.26,
+        0.59,
+        0.98,
+        0.31
+      ],
+      "HeaderActive": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "HeaderHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.8
+      ],
+      "MenuBarBg": [
+        0.14,
+        0.14,
+        0.14,
+        1.0
+      ],
+      "ModalWindowDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.35
+      ],
+      "NavHighlight": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "NavWindowingDimBg": [
+        0.8,
+        0.8,
+        0.8,
+        0.2
+      ],
+      "NavWindowingHighlight": [
+        1.0,
+        1.0,
+        1.0,
+        0.7
+      ],
+      "PlotHistogram": [
+        0.9,
+        0.7,
+        0.0,
+        1.0
+      ],
+      "PlotHistogramHovered": [
+        1.0,
+        0.6,
+        0.0,
+        1.0
+      ],
+      "PlotLines": [
+        0.61,
+        0.61,
+        0.61,
+        1.0
+      ],
+      "PlotLinesHovered": [
+        1.0,
+        0.43,
+        0.35,
+        1.0
+      ],
+      "PopupBg": [
+        0.08,
+        0.08,
+        0.08,
+        0.94
+      ],
+      "ResizeGrip": [
+        0.26,
+        0.59,
+        0.98,
+        0.2
+      ],
+      "ResizeGripActive": [
+        0.26,
+        0.59,
+        0.98,
+        0.95
+      ],
+      "ResizeGripHovered": [
+        0.26,
+        0.59,
+        0.98,
+        0.67
+      ],
+      "ScrollbarBg": [
+        0.02,
+        0.02,
+        0.02,
+        0.53
+      ],
+      "ScrollbarGrab": [
+        0.31,
+        0.31,
+        0.31,
+        1.0
+      ],
+      "ScrollbarGrabActive": [
+        0.51,
+        0.51,
+        0.51,
+        1.0
+      ],
+      "ScrollbarGrabHovered": [
+        0.41,
+        0.41,
+        0.41,
+        1.0
+      ],
+      "Separator": [
+        0.43,
+        0.43,
+        0.5,
+        0.5
+      ],
+      "SeparatorActive": [
+        0.1,
+        0.4,
+        0.75,
+        1.0
+      ],
+      "SeparatorHovered": [
+        0.1,
+        0.4,
+        0.75,
+        0.78
+      ],
+      "SliderGrab": [
+        0.24,
+        0.52,
+        0.88,
+        1.0
+      ],
+      "SliderGrabActive": [
+        0.26,
+        0.59,
+        0.98,
+        1.0
+      ],
+      "Tab": [
+        0.17999999,
+        0.34999996,
+        0.58000004,
+        0.862
+      ],
+      "TabActive": [
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "TabHovered": [
+        1.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "TabUnfocused": [
+        0.068,
+        0.10199998,
+        0.14800003,
+        0.9724
+      ],
+      "TabUnfocusedActive": [
+        0.616,
+        0.016,
+        0.016,
+        1.0
+      ],
+      "TableBorderLight": [
+        0.23,
+        0.23,
+        0.25,
+        1.0
+      ],
+      "TableBorderStrong": [
+        0.31,
+        0.31,
+        0.35,
+        1.0
+      ],
+      "TableHeaderBg": [
+        0.19,
+        0.19,
+        0.2,
+        1.0
+      ],
+      "TableRowBg": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "TableRowBgAlt": [
+        1.0,
+        1.0,
+        1.0,
+        0.06
+      ],
+      "Text": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "TextDisabled": [
+        0.5,
+        0.5,
+        0.5,
+        1.0
+      ],
+      "TextSelectedBg": [
+        0.26,
+        0.59,
+        0.98,
+        0.35
+      ],
+      "TitleBg": [
+        0.04,
+        0.04,
+        0.04,
+        1.0
+      ],
+      "TitleBgActive": [
+        0.16,
+        0.29,
+        0.48,
+        1.0
+      ],
+      "TitleBgCollapsed": [
+        0.0,
+        0.0,
+        0.0,
+        0.51
+      ],
+      "WindowBg": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  },
+  "Triggerbot": [
+    {
+      "Scoped only": false
+    },
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Visuals": {
+    "Brightness": 1.0,
+    "Bullet Tracers": {
+      "Enabled": true
+    },
+    "Deagle spinner": true,
+    "FOV": 24,
+    "Flash reduction": 100,
+    "Hit effect": 4,
+    "Hit marker": 1,
+    "No fog": true,
+    "No scope overlay": true,
+    "No view punch": true,
+    "Sky": {
+      "Color": [
+        1e-06,
+        0.0,
+        0.0
+      ]
+    },
+    "Skybox": 13,
+    "Thirdperson distance": 174
+  }
+}
